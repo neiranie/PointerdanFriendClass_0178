@@ -33,3 +33,6 @@ int main (){
     *c = 9;
     cout << endl;
     cout << a << endl;
+
+    cout << "alamat memori a = " << &a << endl;
+    cout << "alamat memori a = " << c << endl;
