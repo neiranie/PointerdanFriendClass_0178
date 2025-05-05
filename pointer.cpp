@@ -12,3 +12,7 @@ class Staff{
     public:
     int nidn;
 };
+int main (){
+    Dosen ds;
+    ds.nama = "Giga";
+    ds.tampilNama();
